@@ -13,4 +13,4 @@
 ## Tech Stack (Web Technology)
 
 * Frontend - HTML, CSS, JavaScript
-* Backeend - PHP, MySQL
+* Backend - PHP, MySQL
